@@ -3,7 +3,7 @@
 //fuck you Smey
 
 //our L298N control pins
-const int LeftMotorForward = 3;
+const int LeftMotorForward = 3; dgdfgfdgfdgdsfswqdWFwaf
 const int LeftMotorBackward = 4;
 const int RightMotorForward = 5;
 const int RightMotorBackward = 6;
